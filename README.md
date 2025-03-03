@@ -8,19 +8,15 @@ I’m a **data enthusiast** passionate about **data science, business process au
 - **Process Automation** – Workflow optimization with Power Platforms & Pega BPM  
 - **Web & Scripting** – Google Apps Script, SQL, and Python for automation  
 
-## Education & Certifications  
-- 🎓 **Ph.D. Candidate** in Quantitative Methods  
-- 📊 **Microsoft Certified: Power BI Data Analyst Associate**  
-- ⚙️ **Microsoft Certified: Power Platform**  
-- 📜 **Pega Certified: Business Architect**  
-- 💡 **Data Science & AI Bootcamp Graduate**
+## Certifications  
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Power_BI_Data_Analyst_Associate-grey?style=for-the-badge&labelColor=blue)](https://learn.microsoft.com/api/credentials/share/en-us/mberkancetin/3743183F78984D07)
 
-- ![Ph.D. Candidate](https://img.shields.io/badge/Ph.D.%20Candidate-Quantitative%20Methods-blue)
-- ![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst-blue)
-- ![Pega Certified](https://img.shields.io/badge/Pega%20Certified-Business%20Architect-blue)  
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Power_Platform_Fundamentals-grey?style=for-the-badge&labelColor=blue)](https://learn.microsoft.com/api/credentials/share/en-us/mberkancetin/C08FFBF2FE8CD961)
 
+[![Pega Certified](https://img.shields.io/badge/Pegasystems_Certified-Business_Architect-blue?style=for-the-badge&labelColor=ADD8E6)](https://accounts.pega.com/profile/Mahmut%20Berkan%20Cetin/share/BPEGAPCBA87V1-PEGAPCBA87V1)
 
 ## Current Projects  
+- 🎓 **Ph.D. Candidate** in Quantitative Methods  
 - 📝 Sharing my **Google Sheets automation method** on [protocols.io](https://www.protocols.io/)  
 - 🤖 Exploring **AI-driven business process automation**  
 - 📊 Contributing to **open-source data science & analytics projects**  
