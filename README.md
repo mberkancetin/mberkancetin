@@ -13,7 +13,12 @@ I’m a **data enthusiast** passionate about **data science, business process au
 - 📊 **Microsoft Certified: Power BI Data Analyst Associate**  
 - ⚙️ **Microsoft Certified: Power Platform**  
 - 📜 **Pega Certified: Business Architect**  
-- 💡 **Data Science & AI Bootcamp Graduate**  
+- 💡 **Data Science & AI Bootcamp Graduate**
+
+- ![Ph.D. Candidate](https://img.shields.io/badge/Ph.D.%20Candidate-Quantitative%20Methods-blue)
+- ![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst-blue)
+- ![Pega Certified](https://img.shields.io/badge/Pega%20Certified-Business%20Architect-blue)  
+
 
 ## Current Projects  
 - 📝 Sharing my **Google Sheets automation method** on [protocols.io](https://www.protocols.io/)  
