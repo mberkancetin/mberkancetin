@@ -16,8 +16,8 @@ I’m a **data enthusiast** passionate about **data science, business process au
 [![Pega Certified](https://img.shields.io/badge/Pegasystems_Certified-Business_Architect-blue?style=for-the-badge&labelColor=ADD8E6)](https://accounts.pega.com/profile/Mahmut%20Berkan%20Cetin/share/BPEGAPCBA87V1-PEGAPCBA87V1)
 
 ## Current Projects  
-- 🎓 **Ph.D. Candidate** in Quantitative Methods  
-- 📝 Sharing my **Google Sheets automation method** on [protocols.io](https://www.protocols.io/)  
+- 🎓 **Ph.D.** (Completed) in Quantitative Methods  
+- 📝 Sharing my **Google Sheets automation method** on [protocols.io](https://dx.doi.org/10.17504/protocols.io.x54v9r3xzv3e/v2)
 - 🤖 Exploring **AI-driven business process automation**  
 - 📊 Contributing to **open-source data science & analytics projects**  
 
